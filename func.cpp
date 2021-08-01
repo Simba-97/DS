@@ -2,6 +2,8 @@
 using namespace std;	
 #define ll long long
 
+//make a new funcion named
+
 int main(){
 	#ifndef ONLINE_JUDGE
 	freopen("input.txt","r", stdin);
